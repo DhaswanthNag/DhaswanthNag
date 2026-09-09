@@ -1,13 +1,23 @@
-<a href="https://github.com/Sushmitadasari/Sushmitadasari">
+<a href="https://github.com/DhaswanthNag">
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dark.svg">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/light.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/dark.svg"
+    />
+
+    <img
+      alt="Dhaswanth Nag GitHub Profile"
+      src="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/light.svg"
+    />
   </picture>
-  <p align="center">
+
+</a>
+
+<p align="center">
   <img
-    src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
+    src="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/github-jet.svg"
     alt="GitHub Jet Heatmap"
     width="100%"
   />
 </p>
-</a>
