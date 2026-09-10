@@ -22,8 +22,10 @@
 <!-- PHASE 2: SELF-HOSTED GITHUB STATS -->
 
 <p align="center">
-  <img width="100%" alt="DhaswanthNag GitHub contribution streak — dark mode" src="https://streak-stats.demolab.com?user=DhaswanthNag&amp;hide_border=false&amp;border_radius=8&amp;background=0A101F&amp;border=22D3EE&amp;stroke=2D3343&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=22D3EE&amp;sideLabels=A78BFA&amp;dates=94A3B8#gh-dark-mode-only" />
-  <img width="100%" alt="DhaswanthNag GitHub contribution streak — light mode" src="https://streak-stats.demolab.com?user=DhaswanthNag&amp;hide_border=false&amp;border_radius=8&amp;background=FFFFFF&amp;border=0891B2&amp;stroke=CBD5E1&amp;ring=7C3AED&amp;fire=10B981&amp;currStreakNum=0A101F&amp;sideNums=0A101F&amp;currStreakLabel=0891B2&amp;sideLabels=7C3AED&amp;dates=475569#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DhaswanthNag&amp;hide_border=false&amp;border_radius=8&amp;background=0A101F&amp;border=22D3EE&amp;stroke=2D3343&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=22D3EE&amp;sideLabels=A78BFA&amp;dates=94A3B8&amp;locale=en" />
+    <img width="100%" alt="DhaswanthNag GitHub contribution streak" src="https://streak-stats.demolab.com?user=DhaswanthNag&amp;hide_border=false&amp;border_radius=8&amp;background=FFFFFF&amp;border=0891B2&amp;stroke=CBD5E1&amp;ring=7C3AED&amp;fire=10B981&amp;currStreakNum=0A101F&amp;sideNums=0A101F&amp;currStreakLabel=0891B2&amp;sideLabels=7C3AED&amp;dates=475569&amp;locale=en" />
+  </picture>
 </p>
 
 <p align="center">
@@ -38,4 +40,5 @@
     <img width="49%" alt="DhaswanthNag most-used languages" src="https://github-readme-stats-roan-zeta-zwdrhsn7hh.vercel.app/api/top-langs/?username=DhaswanthNag&amp;layout=compact&amp;langs_count=8&amp;bg_color=FFFFFF&amp;title_color=7C3AED&amp;text_color=0A101F&amp;border_color=0891B2&amp;border_radius=8" />
   </picture>
 </p>
+
 
