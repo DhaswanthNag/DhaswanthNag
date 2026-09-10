@@ -64,3 +64,17 @@
   </picture>
 </p>
 
+<!-- PHASE 4: SOCIAL BADGES -->
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhaswanth-nag/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prathi%20Dhaswanth%20Nag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Prathi Dhaswanth Nag on LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:dhaswanthnag@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dhaswanthnag%40gmail.com-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email Dhaswanth Nag" />
+  </a>&nbsp;&nbsp;
+  <a href="https://dhaswanthnag.github.io/Dhaswanth-Nag_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0A101F?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="View Dhaswanth Nag's portfolio" />
+  </a>
+</p>
