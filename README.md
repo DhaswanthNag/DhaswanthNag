@@ -47,4 +47,20 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-roan-zeta-zwdrhsn7hh.vercel.app/api/top-langs/?username=DhaswanthNag&amp;layout=compact&amp;langs_count=8&amp;bg_color=FFFFFF&amp;title_color=7C3AED&amp;text_color=0A101F&amp;border_color=0891B2&amp;border_radius=8" />
     <img width="49%" alt="DhaswanthNag most-used languages" src="https://github-readme-stats-roan-zeta-zwdrhsn7hh.vercel.app/api/top-langs/?username=DhaswanthNag&amp;layout=compact&amp;langs_count=8&amp;bg_color=FFFFFF&amp;title_color=7C3AED&amp;text_color=0A101F&amp;border_color=0891B2&amp;border_radius=8" />
   </picture>
+</p> 
+
+<!-- PHASE 3: CONTRIBUTION SNAKE -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      width="100%"
+      alt="DhaswanthNag contribution snake"
+      src="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
+
