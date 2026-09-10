@@ -21,6 +21,24 @@
 </p>
 
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/light.svg"
+      alt="Prathi Dhaswanth Nag — GitHub Profile Banner"
+      width="100%"
+    />
+  </picture>
+</p>
+
 <!-- PHASE 2: SELF-HOSTED GITHUB STATS -->
 
 <p align="center">
