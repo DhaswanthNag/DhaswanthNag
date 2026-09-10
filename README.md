@@ -13,31 +13,23 @@
 </a>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/github-jet.svg"
-    alt="GitHub Jet Heatmap"
-    width="100%"
-  />
-</p>
-
-
-<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/dark.svg"
+      srcset="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/github-jet.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/light.svg"
+      srcset="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/github-jet-light.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/light.svg"
-      alt="Prathi Dhaswanth Nag — GitHub Profile Banner"
+      src="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dist/github-jet-light.svg"
+      alt="DhaswanthNag GitHub Jet Contribution Heatmap"
       width="100%"
     />
   </picture>
 </p>
+
 
 <!-- PHASE 2: SELF-HOSTED GITHUB STATS -->
 
