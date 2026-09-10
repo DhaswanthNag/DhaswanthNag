@@ -67,6 +67,37 @@
   <img src="https://img.shields.io/badge/CI%2FCD-0A101F?style=for-the-badge&logo=githubactions&logoColor=A78BFA" alt="CI/CD" />
 </p>
 
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/DhaswanthNag/Dhaswanth-Nag_Portfolio">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats-roan-zeta-zwdrhsn7hh.vercel.app/api/pin/?username=DhaswanthNag&amp;repo=Dhaswanth-Nag_Portfolio&amp;bg_color=0A101F&amp;title_color=A78BFA&amp;text_color=F8FAFC&amp;icon_color=10B981&amp;border_color=22D3EE&amp;border_radius=10"
+      />
+      <img
+        width="49%"
+        alt="Dhaswanth Nag Portfolio"
+        src="https://github-readme-stats-roan-zeta-zwdrhsn7hh.vercel.app/api/pin/?username=DhaswanthNag&amp;repo=Dhaswanth-Nag_Portfolio&amp;bg_color=FFFFFF&amp;title_color=7C3AED&amp;text_color=0A101F&amp;icon_color=10B981&amp;border_color=0891B2&amp;border_radius=10"
+      />
+    </picture>
+  </a><!--
+  --><a href="https://github.com/DhaswanthNag/RockPaperScissor">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats-roan-zeta-zwdrhsn7hh.vercel.app/api/pin/?username=DhaswanthNag&amp;repo=RockPaperScissor&amp;bg_color=0A101F&amp;title_color=A78BFA&amp;text_color=F8FAFC&amp;icon_color=10B981&amp;border_color=22D3EE&amp;border_radius=10"
+      />
+      <img
+        width="49%"
+        alt="Rock Paper Scissors Project"
+        src="https://github-readme-stats-roan-zeta-zwdrhsn7hh.vercel.app/api/pin/?username=DhaswanthNag&amp;repo=RockPaperScissor&amp;bg_color=FFFFFF&amp;title_color=7C3AED&amp;text_color=0A101F&amp;icon_color=10B981&amp;border_color=0891B2&amp;border_radius=10"
+      />
+    </picture>
+  </a>
+</p>
+
 <!-- PHASE 3: CONTRIBUTION SNAKE -->
 <p align="center">
   <picture>
