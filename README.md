@@ -49,6 +49,24 @@
   </picture>
 </p> 
 
+<!-- TECH STACK -->
+<h3 align="center">Languages &amp; Technology Stack</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,js,python,c,react,html,css,tailwind,spring,nodejs,postgres,aws,linux,git,github,vercel,vscode,idea,postman&perline=10"
+    alt="Java, JavaScript, C, Python, React, HTML, CSS, Tailwind CSS, Spring Boot, Node.js, PostgreSQL, AWS, Linux, Git, GitHub, Vercel, VS Code, IntelliJ IDEA and Postman"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-0A101F?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="REST APIs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=10B981" alt="SQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-0A101F?style=for-the-badge&logo=githubactions&logoColor=A78BFA" alt="CI/CD" />
+</p>
+
 <!-- PHASE 3: CONTRIBUTION SNAKE -->
 <p align="center">
   <picture>
