@@ -20,6 +20,18 @@
   />
 </p>
 
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/light.svg">
+<img
+alt="GitHub Jet Heatmap"
+src="https://raw.githubusercontent.com/DhaswanthNag/DhaswanthNag/main/dark.svg"
+width="100%">
+</picture>
+</p>
+
 <!-- PHASE 2: SELF-HOSTED GITHUB STATS -->
 
 <p align="center">
