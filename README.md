@@ -104,6 +104,6 @@
     <img src="https://img.shields.io/badge/Gmail-dhaswanthnag%40gmail.com-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email Dhaswanth Nag" />
   </a>&nbsp;&nbsp;
   <a href="https://dhaswanthnag.github.io/Dhaswanth-Nag_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0A101F?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="View Dhaswanth Nag's portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="View Dhaswanth Nag's Portfolio" />
   </a>
 </p>
